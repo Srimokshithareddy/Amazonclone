@@ -1,4 +1,1 @@
-# demo
-first git repos
-<br>
-Author - Mokshitha 
+Amazon clone website
